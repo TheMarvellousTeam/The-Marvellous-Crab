@@ -1,0 +1,46 @@
+{
+name:"Level 5",
+emitters:[
+	{
+		color:red,
+		transform:{x:200,y:185,angle:90}
+	}
+],
+mirrors:[
+	{
+		transform:{x:50,y:250,angle:0},
+		rotable:true
+	},
+	{
+		transform:{x:60, y:600, angle:0},
+		rotable:true
+	}
+],
+prisms:[
+	{
+		transform:{x:410, y:510, angle:0},
+		rotable:true
+	}
+],
+receptors:[
+	{
+		transform:{x:300,y:450,angle:0},
+		color:yellow
+	}
+],
+filters:[
+	{
+		transform:{x:320,y:550,angle:0},
+		color:yellow
+	}
+],
+
+blocks:[
+	{
+		type:"stone",
+		transform:{x:100,y:350, angle:0}
+	}
+],
+teleporters:[
+]
+}

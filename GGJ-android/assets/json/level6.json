@@ -1,0 +1,67 @@
+{
+name:"Level 6",
+emitters:[
+	{
+		color:orange,
+		transform:{x:265, y:184,angle:90}
+	}
+],
+mirrors:[
+	{
+		transform:{x:40,y:170,angle:0},
+		rotable:true
+	},
+	{
+		transform:{x:380,y:620,angle:135},
+		movable:{x:360,y:600,w:90,h:180}
+	},
+	{
+		transform:{x:40,y:660,angle:45},
+		movable:{x:40,y:600,w:0,h:180}
+	},
+	{
+		transform:{x:450, y:400, angle:0},
+		rotable:true
+	}
+],
+receptors:[
+	{
+		transform:{x:220,y:420,angle:0},
+		color:blue
+	}
+],
+filters:[
+	{
+		transform:{x:200, y:500, angle:0},
+		color:blue
+	}
+],
+prisms:[
+	{
+		transform:{x:425,y:450,angle:0},
+		rotable:true
+	},
+	{
+		transform:{x:100, y:525, angle:45},
+		rotable:true
+	}
+],
+teleporters:[
+],
+blocks:[
+	{
+		type:"stone",
+		transform:{x:140,y:240, angle:0}
+	},
+	
+	{
+		type:"stone",
+		transform:{x:330,y:230, angle:10}
+	},
+	
+	{
+		type:"stone",
+		transform:{x:120,y:610, angle:90}
+	}
+]
+}

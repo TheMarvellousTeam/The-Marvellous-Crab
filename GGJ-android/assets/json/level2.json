@@ -1,0 +1,57 @@
+{
+name:"Level 2",
+emitters:[
+	{
+		color:blue,
+		transform:{x:200,y:185,angle:90}
+	},
+	{
+		color:green,
+		transform:{x:265, y:184,angle:90}
+	}
+],
+mirrors:[
+	{
+		transform:{x:30,y:400,angle:0},
+		rotable:true
+	},
+	{
+		transform:{x:70,y:700,angle:0},
+		rotable:true
+	},
+	{
+		transform:{x:210,y:450,angle:0},
+		rotable:true
+	}
+],
+prisms:[
+],
+receptors:[
+	{
+		transform:{x:400,y:700,angle:0},
+		color:green
+	},
+	{
+		transform:{x:400,y:650,angle:0},
+		color:green
+	}
+],
+filters:[
+	{
+		transform:{x:150, y:675, angle:0},
+		color:yellow
+	}
+],
+blocks:[
+	{
+		type:"stone",
+		transform:{x:90,y:500, angle:0}
+	},
+	{
+		type:"stone",
+		transform:{x:280,y:400, angle:0}
+	}
+],
+teleporters:[
+]
+}

@@ -1,0 +1,9 @@
+[
+	{
+		name: "stone",
+		file:"data/stone.png",
+		vectrices:[45,108, 140,106, 162,55, 145,10, 50,5, 10,20, 0,60],
+		offx:250,
+		offy:50
+	}
+]

@@ -1,0 +1,41 @@
+{
+name:"Level 4",
+emitters:[
+	{
+		color:blue,
+		transform:{x:200,y:185,angle:90}
+	}
+],
+mirrors:[
+	{
+		transform:{x:125,y:775,angle:0},
+		rotable:true
+	},
+	{
+		transform:{x:325, y:500, angle:0},
+		rotable:true
+	}
+],
+receptors:[
+	{
+		transform:{x:300,y:750,angle:0},
+		color:blue
+	}
+],
+filters:[
+],
+prisms:[
+],
+blocks:[
+	{
+		type:"stone",
+		transform:{x:225,y:375, angle:0}
+	}
+],
+teleporters:[
+{
+	p1:{x:100,y:300,angle:0},
+	p2:{x:350, y:575, angle:0}
+}
+]
+}

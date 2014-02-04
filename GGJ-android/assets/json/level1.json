@@ -1,0 +1,54 @@
+{
+name:"Level 1",
+emitters:[
+	{
+		color:blue,
+		transform:{x:200,y:185,angle:90}
+	},
+	{
+		color:red,
+		transform:{x:265, y:184,angle:90}
+	}
+],
+mirrors:[
+	{
+		transform:{x:50,y:250,angle:0},
+		rotable:true
+	},
+	{
+		transform:{x:425, y:300, angle:0},
+		rotable:true
+	},
+	{
+		transform:{x:185, y:700, angle:0},
+		rotable:true
+	}
+],
+prisms:[
+],
+receptors:[
+	{
+		transform:{x:450,y:700,angle:0},
+		color:blue
+	},
+	{
+		transform:{x:50,y:500,angle:0},
+		color:red
+	}
+],
+filters:[
+],
+
+blocks:[
+	{
+		type:"stone",
+		transform:{x:100,y:350, angle:0}
+	},
+	{
+		type:"stone",
+		transform:{x:300,y:550, angle:0}
+	}
+],
+teleporters:[
+]
+}
