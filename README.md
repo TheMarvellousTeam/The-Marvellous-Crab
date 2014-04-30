@@ -8,9 +8,9 @@ Under the sea, one crab wakes up shooting lazers with his eyes, for some reasons
 
 Authors
 =======
- * [P4ddl3](https://github.com/p4ddl3) as ""
+ * [P4ddl3](https://github.com/p4ddl3) as architect
  * [NiZiL](https://github.com/nizil) as game developper
- * [Platane](https://github.com/Platane) as mecanic developper
+ * [Platane](https://github.com/Platane) as graphic developper
 
 Technologies
 ============
