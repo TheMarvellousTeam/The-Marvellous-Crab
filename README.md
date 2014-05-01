@@ -25,4 +25,6 @@ Authors
 
 Technologies
 ============
-This game is powered by [libGDX](http://libgdx.badlogicgames.com/) and the entity-component framework [Apollo](http://gamadu.com/apollo/)
+ * [libGDX](http://libgdx.badlogicgames.com/)
+ * [Apollo](http://gamadu.com/apollo/)
+ * [GSON](https://code.google.com/p/google-gson/)
