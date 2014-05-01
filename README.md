@@ -10,7 +10,9 @@ Gameplay
 ========
 ![game scene](http://globalgamejam.org/sites/default/files/games/screenshots/full.jpg "game")
 
-Rotate lazers and optical devices by dragging it. Devices may be rotatable or movable, watch for the white delimiters when dragging a device.
+Rotate lazers and optical devices by dragging it. 
+
+Devices may be rotatable or movable, watch for the white delimiters when dragging a device.
 
 Reach all hermit crabs with a lazer of the appropriate color.
 
